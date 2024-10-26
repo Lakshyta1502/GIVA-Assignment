@@ -14,9 +14,9 @@ Make sure you have Node.js and npm installed on your machine. You also need to h
 
 ### Running the Backend
 
-1. Navigate to the `backend` directory:
+1. Navigate to the `backend/e-back-main/e-back-main` directory:
    ```bash
-   cd backend
+   cd backend/e-back-main/e-back-main
     ```
    
 2. Install all dependencies:
@@ -31,9 +31,9 @@ node index.js
 
 ### Running the Frontend
 
-1. Navigate to the frontend directory:
+1. Navigate to the `frontend/e-front-main/e-front-main` directory:
  ```bash
-cd frontend
+cd frontend/e-front-main/e-front-main
  ```
 
 2.Install all dependencies:
